@@ -1,0 +1,23 @@
+h3
+{
+    font-size: 25px;
+}
+.btn-success:hover
+{
+    background-color: lightblue;
+}
+ canvas {
+    animation-name: Baddie;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+ }
+ 
+
+ @keyframes Baddie{
+    from{box-shadow: 1px ipx 38px purple;}
+    to{box-shadow: 1px ipx 38px yellow;}
+
+ }
+
+
+
